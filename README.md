@@ -5,8 +5,6 @@
 ## Description
 Shop-Shop is an ecommerce MERN application. Users are able to browse items and add them to a cart, which will persist if the website is left. Additionally, users can create an account to keep track of what items they have purchased. The payment processing platform used is Stripe.
 
-Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is done to save bandwidth and reduce waterfall requests. It also enables clients to request their own unique data specifications. IndexedDB is implemented to create persistent cart data, as users are accustommed to that feature. While Stripe API is the payment processing platform for the checkout process. Shop-Shop initially used React-Context for state management but was refactored to use Redux for its predictability, DRY code, and speed. While JsonWebToken and JWT-Decode enable the safe transmission of user data. The bcrypt hashing function allows us to build a password security platform that scales with computation power and always hashes every user password with a salt. 
-
 
 ## Table of Contents
   - [Usage](#Usage)
