@@ -1,7 +1,5 @@
 # Shop-Shop
 
- <a href="https://shop-shop-mern.herokuapp.com/">![Deployed App](https://img.shields.io/badge/-Deployed-success?style=for-the-badge)</a>![Repo Size](https://img.shields.io/github/repo-size/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Languages](https://img.shields.io/github/languages/count/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Prominent Language](https://img.shields.io/github/languages/top/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)
-
 ## Description
 Shop-Shop is an ecommerce MERN application. Users are able to browse items and add them to a cart, which will persist if the website is left. Additionally, users can create an account to keep track of what items they have purchased. The payment processing platform used is Stripe.
 
@@ -12,8 +10,6 @@ Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is
   - [Usage](#Usage)
   - [Installation](#installation)
   - [Technology Used](#technology-used)
-  - [Questions](#questions)
-  - [Links](#links)
   - [License](#license)
   
 ## Usage
@@ -24,22 +20,11 @@ Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is
 #### Application Homepage:
 <img src='./readme/homepage.png' height="400" width="600">
 
-#### Product Page:
-<img src='./readme/single.png' height="400" width="600">
-
 #### Shopping Cart:
 <img src='./readme/cart.png' height="400" width="600">
 
- #### Stripe Checkout:
-<img src='./readme/stripe.png' height="400" width="600">
 
- #### User Order History:
-<img src='./readme/order-history.png' height="400" width="600">
-
- 
-  
-
-  ## Technology Used
+## Technology Used
 ![Mongoose.js](https://img.shields.io/badge/-Mongoose-9cf?style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express-white?style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-9cf?style=for-the-badge)
@@ -61,15 +46,10 @@ Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is
   
 ![Heroku](https://img.shields.io/badge/Deployed-Heroku-inactive?style=for-the-badge)![MongoDB](https://img.shields.io/badge/Database-MongoDb-inactive?style=for-the-badge)![MongoDB Atlas](https://img.shields.io/badge/Cloud%20Database-MongoDB%20Atlas-inactive?style=for-the-badge) 
   
-  ## Questions
-  Please reach out to me at [unisk434@gmail.com](mailto:unisk434@gmail.com?subject=[GitHub%shop-shop]%20Source%20Han%20Sans)
+ 
 
-  ## Links
-  - **[Deployed App](https://shop-shop-mern.herokuapp.com/) https://shop-shop-mern.herokuapp.com/** 
-  - **[GitHub Repo](https://github.com/unis434/shop-shop)**
-  - **[My Portfolio](https://unis434.github.io/Personal_Resume/index.html)**
-  - **[Connect on LinkedIn](https://www.linkedin.com/in/unisk434)**
-  - **[GitHub profile](https://github.com/Unis434)    ![Github Followers](https://img.shields.io/github/followers/Unis434?style=social)**
+  ## Live Demo: https://shop-shop-mern.herokuapp.com
+   
 
   ## License 
   This application uses the MIT license.  
