@@ -1,5 +1,7 @@
 # Shop-Shop
 
+## Live Demo: https://shop-shop-mern.herokuapp.com
+
 ## Description
 Shop-Shop is an ecommerce MERN application. Users are able to browse items and add them to a cart, which will persist if the website is left. Additionally, users can create an account to keep track of what items they have purchased. The payment processing platform used is Stripe.
 
@@ -44,9 +46,7 @@ Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is
 ![Bcrypt](https://img.shields.io/badge/-Bcrypt-white?style=for-the-badge)<br />
   
 ![Heroku](https://img.shields.io/badge/Deployed-Heroku-inactive?style=for-the-badge)![MongoDB](https://img.shields.io/badge/Database-MongoDb-inactive?style=for-the-badge)![MongoDB Atlas](https://img.shields.io/badge/Cloud%20Database-MongoDB%20Atlas-inactive?style=for-the-badge) 
-  
-
-## Live Demo: https://shop-shop-mern.herokuapp.com
+ 
    
 ## License 
   This application uses the MIT license.  
