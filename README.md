@@ -8,7 +8,6 @@ Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is
 
 ## Table of Contents
   - [Usage](#Usage)
-  - [Installation](#installation)
   - [Technology Used](#technology-used)
   - [License](#license)
   
@@ -46,10 +45,8 @@ Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is
   
 ![Heroku](https://img.shields.io/badge/Deployed-Heroku-inactive?style=for-the-badge)![MongoDB](https://img.shields.io/badge/Database-MongoDb-inactive?style=for-the-badge)![MongoDB Atlas](https://img.shields.io/badge/Cloud%20Database-MongoDB%20Atlas-inactive?style=for-the-badge) 
   
- 
 
-  ## Live Demo: https://shop-shop-mern.herokuapp.com
+## Live Demo: https://shop-shop-mern.herokuapp.com
    
-
-  ## License 
+## License 
   This application uses the MIT license.  
